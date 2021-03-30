@@ -1,0 +1,5 @@
+exclude =
+    migration,
+    __pycahe__,
+    manage.py,
+    settings.py
